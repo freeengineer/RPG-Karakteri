@@ -1,4 +1,5 @@
 export default [
+  "dArizofan Magmaer",
   "Lythienne Fenralei",
   "Hamalitia Torrieth",
   "Kaylessa Olophyra",
